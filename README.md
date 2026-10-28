@@ -1,6 +1,6 @@
 # Supplementary material — From Prompt to Policy
 
-This repository accompanies the paper **“From Prompt to Policy: Controlling LLM Transformations in Healthcare Communication”**, submitted to the SAI-CARE 2026 workshop. It provides the supplementary document and an executable artifact for inspecting and reproducing the paper's bounded verification results. The repository is provided anonymously for peer review.
+This repository accompanies the paper **“From Prompt to Policy: Controlling LLM Transformations in Healthcare Communication”**, submitted to the SAI-CARE 2026 workshop. It provides the supplementary document and an executable artifact for inspecting and reproducing the paper's bounded verification results. 
 
 ## Start here
 
